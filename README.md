@@ -2,5 +2,5 @@
 
 To view:
 
-npm install
-npm run serve
+<pre>npm install
+npm run serve</pre>
